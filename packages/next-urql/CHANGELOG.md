@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.1.1
+
+- Fixes resetUrqlClient doesn't refetch the graphql queries and uses previous client or previous ssr cache
+
 ## 3.1.0
 
 ### Minor Changes
